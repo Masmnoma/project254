@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6e3e22d9-2697-43ab-b24a-f81bd1fb9a2f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/website.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/About us.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Contact us.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PROJECT.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Services.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/MPYA.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/bla.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/bun.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/download (1).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/download.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/lau.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo_files/0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo_files/10035499-10033461.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo_files/19657.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo_files/1s9mPOHO.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo_files/4052872.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo_files/509017399280758" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo_files/7345237909_2f564dad-0f4c-471b-b511-7fa95442534b.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo_files/7345237911_a140d27e-d4f5-4dc5-ae48-460e8581dc7d.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo_files/Beq5YUTp.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo_files/Ul4KS3yeIsexeSxxShPVeoQgrvc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo_files/activityi(1).html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo_files/activityi(10).html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo_files/activityi(11).html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo_files/activityi(12).html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo_files/activityi(13).html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo_files/activityi(14).html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo_files/activityi(2).html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo_files/activityi(3).html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo_files/activityi(4).html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo_files/activityi(5).html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo_files/activityi(6).html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo_files/activityi(7).html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo_files/activityi(8).html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo_files/activityi(9).html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo_files/activityi.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo_files/aff_goal(1).html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo_files/aff_goal(10).html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo_files/aff_goal(11).html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo_files/aff_goal(2).html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo_files/aff_goal(3).html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo_files/aff_goal(4).html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo_files/aff_goal(5).html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo_files/aff_goal(6).html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo_files/aff_goal(7).html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo_files/aff_goal(8).html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo_files/aff_goal(9).html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo_files/aff_goal.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo_files/analytics.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo_files/bat.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo_files/box-4924254a9ce4dc9b959b6e4a9b662d60.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo_files/braintree-2.23.0.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo_files/bxs8cei.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo_files/cb=gapi.loaded_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo_files/cb=gapi.loaded_1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo_files/chunk.143.69456dc93e1d42039ce8.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo_files/chunk.795.872b29de90f8f82d86b8.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo_files/client_platform.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo_files/config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo_files/dc_pre=CIjQ04Sm_fcCFS1BHQkdez4PPQ" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo_files/dc_pre=CIqo8Yqm_fcCFT9EHQkdLSUHyw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo_files/dc_pre=CJql9Yqm_fcCFahIHQkd1MoJ6A" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo_files/dc_pre=CJrk-_Ol_fcCFT9EHQkdLSUHyw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo_files/dc_pre=CKWVxJym_fcCFfhGHQkd_ckMoQ" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo_files/dc_pre=CMG1zaWm_fcCFbVDHQkdItMEAw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo_files/dc_pre=CMaTxvyl_fcCFQyehQod02QEOQ" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo_files/dc_pre=CMvh6NCm_fcCFcmZhQodclMMrw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo_files/dc_pre=CNil0Kum_fcCFf9EHQkd8EUKow" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo_files/dc_pre=COrN2oSm_fcCFb1CHQkdEhgBHQ" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo_files/dc_pre=CPasjI6m_fcCFTJIHQkdTvsLCw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo_files/dc_pre=CPn7zb2m_fcCFatCHQkdNgoOuA" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo_files/dc_pre=CPvjiNym_fcCFXFAHQkdUU4G5w" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo_files/dc_pre=CPvn8_al_fcCFR9DHQkdlTMM_w" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo_files/engine-602829f96c4352c59a78faaa3f123648.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo_files/engine-e25e42ab17b685ae62748664b376fcb7.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo_files/engine-vendor-05f0842fbf9986e9d5f4863b39a8e91d.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo_files/environment-61d59c22d4889a00ef2cc8ef3c83e0a8.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo_files/events.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo_files/f(1).txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo_files/f(10).txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo_files/f(11).txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo_files/f(12).txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo_files/f(13).txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo_files/f(14).txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo_files/f(15).txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo_files/f(16).txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo_files/f(17).txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo_files/f(18).txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo_files/f(19).txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo_files/f(2).txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo_files/f(20).txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo_files/f(21).txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo_files/f(22).txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo_files/f(23).txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo_files/f(24).txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo_files/f(25).txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo_files/f(26).txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo_files/f(27).txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo_files/f(28).txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo_files/f(29).txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo_files/f(3).txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo_files/f(30).txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo_files/f(31).txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo_files/f(32).txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo_files/f(33).txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo_files/f(34).txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo_files/f(35).txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo_files/f(36).txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo_files/f(37).txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo_files/f(38).txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo_files/f(39).txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo_files/f(4).txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo_files/f(40).txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo_files/f(41).txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo_files/f(42).txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo_files/f(43).txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo_files/f(44).txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo_files/f(45).txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo_files/f(46).txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo_files/f(47).txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo_files/f(48).txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo_files/f(49).txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo_files/f(5).txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo_files/f(50).txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo_files/f(51).txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo_files/f(52).txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo_files/f(53).txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo_files/f(54).txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo_files/f(55).txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo_files/f(56).txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo_files/f(57).txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo_files/f(58).txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo_files/f(59).txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo_files/f(6).txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo_files/f(60).txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo_files/f(61).txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo_files/f(62).txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo_files/f(63).txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo_files/f(64).txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo_files/f(65).txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo_files/f(66).txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo_files/f(67).txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo_files/f(68).txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo_files/f(69).txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo_files/f(7).txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo_files/f(70).txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo_files/f(71).txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo_files/f(72).txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo_files/f(73).txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo_files/f(74).txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo_files/f(75).txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo_files/f(76).txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo_files/f(77).txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo_files/f(78).txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo_files/f(79).txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo_files/f(8).txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo_files/f(80).txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo_files/f(81).txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo_files/f(82).txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo_files/f(83).txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo_files/f(84).txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo_files/f(85).txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo_files/f(86).txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo_files/f(87).txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo_files/f(88).txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo_files/f(89).txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo_files/f(9).txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo_files/f(90).txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo_files/f(91).txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo_files/f.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo_files/fbevents.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo_files/frontend-7bc57581b4421c27faff26b1f8901d2e.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo_files/frontend-89a585e69f01e85b9b93f74ac1f6ef43.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo_files/growsumo.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo_files/gtm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo_files/heap-2910579599.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo_files/hotjar-566115.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo_files/identify.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo_files/iframe.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo_files/logo_red.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo_files/logo_small_red.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo_files/lottie-player.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo_files/lp-home-logo-creator%3Futm_source%3Dgoogle%26utm_medium%3Dcpc%26utm_campaign%3D16167976008%26utm_content%3D132820641723%26utm_term%3Dlogo%2520creator%26gclid%3D_" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo_files/m=base" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo_files/modules.7a321ecb93fde9f07226.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo_files/pOah0D3ollHNoLdr2__kbppiJ0M.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo_files/recurly.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo_files/saved_resource(1).html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo_files/saved_resource(2).html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo_files/saved_resource(3).html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo_files/saved_resource(4).html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo_files/saved_resource(5).html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo_files/saved_resource(6).html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo_files/saved_resource(7).html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo_files/saved_resource.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo_files/scevent.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo_files/sdk.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo_files/snippet.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo_files/style-cf.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo_files/vendor-05ccc8a6ef238b7c80a7f842a0423ef0.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo_files/vendor-a9965e4872249f4f28aedf2c608485eb.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/nike.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/of.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/sh.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sample.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="29esSmvhG02PAItCzt80CKDTY5y" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6e3e22d9-2697-43ab-b24a-f81bd1fb9a2f" name="Default Changelist" comment="" />
+      <created>1653484887840</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1653484887840</updated>
+      <workItem from="1653484889481" duration="872000" />
+      <workItem from="1653542171239" duration="31000" />
+      <workItem from="1653565896258" duration="6798000" />
+      <workItem from="1653888483369" duration="41000" />
+      <workItem from="1653911433704" duration="3733000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
